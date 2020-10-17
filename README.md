@@ -1,5 +1,11 @@
-# data-wrangling-tweet-archive
-Gathering data from a variety of sources and in a variety of formats, assessing its quality and tidiness, then cleaning it
+# Data Wrangling and Analysis
 
-## Objective
-Wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations.
+## Overview
+The project used data from the WeRateDogs Twitter account. The data was assessed, cleaned and analyzed to provide insights into account follower behaviour.
+
+The project involved gathering data using a variety of file types and gathering techniques (manual download, programmatic download, api access), assessing the data for quality and tidiness, cleaning the data, and completing analysis and visualzations of the cleaned datasets.
+
+## Technologies Used
+- Python
+- Libraries: pandas, numpy, matplotlib, seaborn, json, os, requests, tweepy
+- Jupyter Notebook
