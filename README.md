@@ -1,5 +1,5 @@
 # Data Wrangling and Analysis
-
+[View Report](https://github.com/Aastha-Arora/Data-Wrangling-Tweet-Archive/blob/master/act_report.pdf)
 ## Overview
 The project used data from the WeRateDogs Twitter account. The data was assessed, cleaned and analyzed to provide insights into account follower behaviour.
 
