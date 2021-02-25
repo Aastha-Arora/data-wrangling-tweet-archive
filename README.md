@@ -1,11 +1,13 @@
 # Data Wrangling and Analysis
-[View Report](https://github.com/Aastha-Arora/Data-Wrangling-Tweet-Archive/blob/master/act_report.pdf)
-## Overview
-The project used data from the WeRateDogs Twitter account. The data was assessed, cleaned and analyzed to provide insights into account follower behaviour.
 
-The project involved gathering data using a variety of file types and gathering techniques (manual download, programmatic download, api access), assessing the data for quality and tidiness, cleaning the data, and completing analysis and visualizations of the cleaned datasets.
+## Introduction
+The objective of this project is to wrangle WeRateDogs Twitter data to create interesting analyses and visualizations. Using Python and its libraries, I have gathered data from a variety of sources and in a variety of formats, assessed its quality and tidiness, and then cleaned it under the data wrangling process.
 
 ## Technologies Used
-- Python
-- Libraries: pandas, numpy, matplotlib, seaborn, json, os, requests, tweepy
-- Jupyter Notebook
+- Python libraries: pandas, numpy, matplotlib, seaborn, json, os, requests, tweepy
+
+## Summary
+[Data Wrangling Report](https://github.com/Aastha-Arora/Data-Wrangling-Tweet-Archive/blob/master/wrangle_report.pdf) contains a description 
+of the data wrangling steps.
+
+[Data Analysis Report](https://github.com/Aastha-Arora/Data-Wrangling-Tweet-Archive/blob/master/act_report.pdf) communicates the insights and displays the visualizations produced from the wrangled data.
